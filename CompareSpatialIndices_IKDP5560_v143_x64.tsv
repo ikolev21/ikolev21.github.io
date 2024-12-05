@@ -1,0 +1,1385 @@
+RunEnvId/V1	Scenario	Operation	Spatial Key	Dimensions	Vector Impl	Dataset Name	Dataset Size	Spatial Index	Time	Mem Delta	Failed
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	33	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	30	-6	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	5	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	560	-14	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	623	-62	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	60	-46	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	734	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	8231	-154	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	8315	-624	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	978	-468	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	82568	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	124360	-1572	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	194842	-6249	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	43646	-4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	12002017	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	48	-2	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	29	-6	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	std::unordered_set	6	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	std::vector	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	675	-13	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	481	-62	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	std::unordered_set	61	-46	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	std::vector	816	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11934	-200	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	7868	-624	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	std::unordered_set	986	-468	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	std::vector	79643	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	229626	-1829	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	330155	-6249	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	21896	-4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	std::vector	11829613	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	4	-1	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	73	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	5	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	945	-48	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	62	-46	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	std::vector	757	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	12922	-511	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	1028	-468	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	std::vector	88461	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	228399	-7870	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	30998	-4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	16126386	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	70	-5	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	5	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	std::vector	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1095	-45	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	62	-46	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	std::vector	760	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	17442	-445	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	1052	-468	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	std::vector	99129	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	81	-2	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	std::unordered_set	6	-4	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	934	-27	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	std::unordered_set	64	-46	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	std::vector	752	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	18612	-451	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	std::unordered_set	988	-468	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	std::vector	93582	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	491985	-9043	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	50348	-4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000000	std::vector	14704592	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	23	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	3	3	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1084	67	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	66	31	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	49	39	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	12859	696	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	1098	312	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	497	490	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	24	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	147133	7054	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	16412	3125	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	7368	4391	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	455	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	2004047	70099	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	361755	31250	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	255624	39821	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	7220	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	22	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	3	3	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	std::unordered_set	6	10	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1324	70	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	75	31	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	std::unordered_set	52	39	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	15707	678	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	1210	312	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	std::unordered_set	552	490	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	std::vector	77	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	194708	6848	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	22313	3125	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	std::unordered_set	7519	4391	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	std::vector	585	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	2456448	68271	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	763361	31250	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	170859	39821	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	std::vector	6166	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	61	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	6	10	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1631	78	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	50	39	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	18817	767	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	522	490	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	24	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	240089	7694	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	7388	4391	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	489	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	2900070	80644	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	327729	39821	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	6434	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	30	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	6	10	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1644	71	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	51	39	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	17583	725	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	522	490	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	std::vector	26	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	272008	7240	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	7989	4391	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	std::vector	488	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	48	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1752	69	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	std::unordered_set	54	39	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	22601	701	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	std::unordered_set	529	490	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	std::vector	26	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	318565	7182	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	std::unordered_set	7490	4391	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	std::vector	474	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	4209580	81453	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	339785	39821	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000000	std::vector	6852	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	51	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	14	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	8	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	11	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	1079	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	206	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	22	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	30	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	23776	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	2409	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	391	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	633	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1598863	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	55501	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000	std::unordered_set	79	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000	std::vector	38	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	11	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	10000	std::unordered_set	1344	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	10000	std::vector	893	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	26	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	48	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100000	std::unordered_set	25943	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	100000	std::vector	9797	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	245	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	977	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1364271	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	point	2	array	Synthetic_Uniform	1000000	std::vector	129471	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	59	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	std::vector	19	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1181	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	std::vector	246	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	43	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	26204	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	std::vector	3244	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	351	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1980835	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	86967	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	65	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	std::vector	21	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	972	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	std::vector	175	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	41	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	25111	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	std::vector	3870	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	4	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000	std::unordered_set	71	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000	std::vector	34	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1445	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	10000	std::vector	850	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	53	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100000	std::unordered_set	29993	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	100000	std::vector	10185	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	710	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1775739	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Big	box	2	array	Synthetic_Uniform	1000000	std::vector	201307	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	50	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	16	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	5	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	1049	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	211	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	23369	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	2580	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	21	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	48	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1635529	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	53154	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	4	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000	std::unordered_set	77	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000	std::vector	39	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	5	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	10000	std::unordered_set	1299	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	10000	std::vector	848	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	11	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100000	std::unordered_set	25810	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	100000	std::vector	9059	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	18	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	57	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1348122	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	point	2	array	Synthetic_Uniform	1000000	std::vector	133415	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	59	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	std::vector	19	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	8	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1153	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	std::vector	242	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	22	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	25955	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	std::vector	3504	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	23	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1911240	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	100381	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	64	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	std::vector	22	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	954	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	std::vector	176	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	13	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	26104	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	std::vector	3998	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000	std::unordered_set	65	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000	std::vector	32	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1415	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	10000	std::vector	800	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	26	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100000	std::unordered_set	30030	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	100000	std::vector	10393	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	184	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1799255	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box Small	box	2	array	Synthetic_Uniform	1000000	std::vector	184155	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	82	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	106	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	5	4	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1467	34	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	1526	62	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	75	46	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	19051	403	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	21039	625	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	1152	468	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	34	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	284324	5708	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	535793	6250	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	59938	4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	380	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	122	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	113	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	std::unordered_set	7	4	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1573	18	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	1737	62	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	std::unordered_set	76	46	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	20517	214	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	25690	625	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	std::unordered_set	1147	468	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	std::vector	33	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	304587	2495	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	896904	6250	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	32542	4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	std::vector	387	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	137	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	6	4	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1968	42	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	77	46	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	26436	501	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	1238	468	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	34	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	405691	8305	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	48755	4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	447	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	109	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	6	4	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	2202	58	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	79	46	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	34943	630	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	1218	468	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	std::vector	33	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	4	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	std::unordered_set	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	194	3	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	std::unordered_set	6	4	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	2183	25	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	std::unordered_set	79	46	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	32282	445	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	std::unordered_set	1178	468	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	std::vector	35	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	537450	9031	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	65356	4687	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000000	std::vector	461	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	26	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	13	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	15	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	5	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1215	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	236	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	182	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	44	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	15044	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	3543	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	2932	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1186	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	174952	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	50054	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	59012	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	88602	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	2435548	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	1160353	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	3663675	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	12118592	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	28	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	13	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	std::unordered_set	16	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	std::vector	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1514	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	257	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	std::unordered_set	251	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	std::vector	95	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	18089	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	3777	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	std::unordered_set	3657	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	std::vector	2679	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	229571	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	60913	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	std::unordered_set	64927	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	std::vector	99387	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	3004393	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	2130471	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	2998941	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	std::vector	12099378	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	79	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	15	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1862	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	201	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	53	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	21967	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	3187	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1300	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	301845	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	64391	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	97168	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	3552611	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	4406888	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	16321239	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	37	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	15	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1850	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	215	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	58	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	21085	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	2765	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	1144	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	338179	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	64759	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	108233	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	57	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	std::unordered_set	15	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	std::vector	6	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	2059	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	std::unordered_set	226	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	std::vector	82	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	25937	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	std::unordered_set	3706	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	std::vector	2533	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	375855	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	std::unordered_set	73748	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	std::vector	116424	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	5271455	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	4113306	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000000	std::vector	15097866	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	2	5	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	69	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	4	3	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	44	46	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	670	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	48	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	63	31	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	51	39	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	748	454	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	5895	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	971	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	1098	312	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	486	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	491	490	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	2	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	9238	4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	77294	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	15001	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	15602	3125	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	5665	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	7186	4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	26	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	125835	45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	986275	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	188054	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	279372	31250	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	77560	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	180688	39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	1237	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	5	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	16	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	5	3	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	59	46	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	135	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	52	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	73	31	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	std::unordered_set	51	39	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1011	454	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	1150	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	1210	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	1124	312	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	784	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	std::unordered_set	539	490	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	13515	4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	10872	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	16751	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	21746	3125	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	10683	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	std::unordered_set	7304	4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	std::vector	26	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	190432	45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	122682	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	213000	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	755157	31250	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	193288	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	170705	39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	std::vector	1250	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2	5	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	50	46	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	155	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	44	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	47	39	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	756	454	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	1603	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	953	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	794	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	479	490	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	std::vector	2	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	9667	4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	16593	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	14846	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	10215	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	7049	4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	std::vector	27	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	126167	45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	187083	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	193315	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	150867	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	180460	39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	1233	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2	5	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	15	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	56	46	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	212	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	50	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	64	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	49	39	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	912	454	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	2052	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	1078	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1159	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	475	490	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	std::vector	2	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	11708	4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	23276	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	16295	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	13205	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	7186	4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	std::vector	25	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	5	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	41	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	std::unordered_set	5	10	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	66	46	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	299	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	54	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	50	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	std::unordered_set	50	39	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1034	454	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	2299	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	1148	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1072	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	std::unordered_set	496	490	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	14693	4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	19631	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	17648	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	14696	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	std::unordered_set	7017	4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	std::vector	29	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	206518	45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	209494	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	222174	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	287453	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	170415	39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	std::vector	1256	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	-5	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	1	-10	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	-46	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	318	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	70	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	16	-39	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	13	-454	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	3195	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	654	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	154	-490	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	178	-4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	61449	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	1048	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	7759	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	1816	-4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	5334	-45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	1047829	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	11441	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	116175	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	381	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	56055	-39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	271	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-5	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	std::unordered_set	1	-10	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-46	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	68	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	std::unordered_set	16	-39	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	13	-454	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	158	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	656	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	std::unordered_set	163	-490	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	226	-4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	1758	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	1064	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	9575	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	std::unordered_set	1816	-4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	5930	-45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	27024	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	11408	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	188087	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	382	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	53666	-39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	std::vector	280	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	-5	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	1	-10	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	-46	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	13	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	16	-39	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	13	-454	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	128	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	150	-490	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	185	-4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	1664	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	1106	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	1957	-4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	5408	-45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	30723	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	11169	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	576	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	57827	-39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	281	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	-5	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	1	-10	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	-46	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	32	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	16	-39	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	13	-454	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	286	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	151	-490	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	188	-4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	4224	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	1064	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	1902	-4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-5	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	std::unordered_set	1	-10	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-46	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	89	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	std::unordered_set	16	-39	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	13	-454	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	506	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	std::unordered_set	157	-490	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	190	-4532	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	3375	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	1072	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	std::unordered_set	1867	-4391	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	5245	-45314	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	40619	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	11190	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	487	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	55940	-39821	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	std::vector	302	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	40	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	22	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	1070	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	164	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	359	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	51	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	22834	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1695	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	184	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	6201	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	409	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	1868	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	114	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1321718	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	36248	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	std::unordered_set	85	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000	std::vector	38	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	213	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	22	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	13	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	std::unordered_set	1303	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	10000	std::vector	804	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	22	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	2863	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	58	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	65	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	std::unordered_set	24347	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	100000	std::vector	8750	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	179	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	46230	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	253	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	1118	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	66	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1220988	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	point	2	array	Synthetic_Uniform	1000000	std::vector	109570	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000	std::vector	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	27	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1052	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	10000	std::vector	195	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	72	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	50	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	22969	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	100000	std::vector	2184	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	163	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	525	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	332	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	230	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1350289	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	55169	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100	std::vector	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	49	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	1000	std::vector	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	891	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	10000	std::vector	163	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	89	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	42	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	21161	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Maricopa_Streets.shp	100000	std::vector	2680	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	15	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	std::unordered_set	68	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000	std::vector	47	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	48	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	24	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1376	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	10000	std::vector	862	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	31	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	340	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	70	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	94	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	std::unordered_set	24442	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	100000	std::vector	9434	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	352	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	5360	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	394	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	526	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1356269	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Big	box	2	array	Synthetic_Uniform	1000000	std::vector	120841	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	46	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	16	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	1050	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	156	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	61	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	22	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	22063	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1621	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	94	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	58	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1304420	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	37066	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	16	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	std::unordered_set	91	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000	std::vector	49	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	193	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	std::unordered_set	1278	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	10000	std::vector	758	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	2753	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	24	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	std::unordered_set	24586	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	100000	std::vector	8288	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	23	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	43825	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	40	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	31	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	10	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1208308	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	point	2	array	Synthetic_Uniform	1000000	std::vector	104567	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	48	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000	std::vector	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	22	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1043	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	10000	std::vector	187	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	60	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	23	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	23211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	100000	std::vector	2123	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	139	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	20	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	53	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1329127	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	55069	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	50	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	1000	std::vector	15	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	883	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	10000	std::vector	158	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	35	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	20	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	21147	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Maricopa_Streets.shp	100000	std::vector	2489	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	std::unordered_set	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100	std::vector	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	std::unordered_set	69	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000	std::vector	35	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	35	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1354	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	10000	std::vector	783	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	270	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	36	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	89	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	std::unordered_set	24183	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	100000	std::vector	8898	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	4593	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	371	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1400540	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box Small	box	2	array	Synthetic_Uniform	1000000	std::vector	117508	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	54	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	7	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	169	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	50	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	48	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	31	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	318	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	775	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	326	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	66	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	1029	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	21339	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	3091	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	53293	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	57	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1343358	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	50807	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	44	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100	std::unordered_set	9	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100	std::vector	8	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	77	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000	std::unordered_set	53	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000	std::vector	37	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	33	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	103	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	10000	std::unordered_set	767	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	10000	std::vector	298	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	60	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	138	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	20	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100000	std::unordered_set	20803	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	100000	std::vector	2938	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	87	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	265	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	98	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1248772	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	point	2	array	Synthetic_Uniform	1000000	std::vector	50760	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100	std::vector	13	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	20	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000	std::vector	107	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	39	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1122	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	10000	std::vector	918	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	79	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	24570	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	100000	std::vector	9787	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	111	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1499563	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	123944	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	13	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100	std::vector	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	107	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	1000	std::vector	105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	38	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	1129	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	10000	std::vector	887	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	74	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	24158	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Maricopa_Streets.shp	100000	std::vector	9628	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	11	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100	std::unordered_set	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100	std::vector	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	21	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000	std::unordered_set	108	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000	std::vector	98	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	39	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1144	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	10000	std::vector	926	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	74	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100000	std::unordered_set	23514	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	100000	std::vector	9847	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	82	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1474806	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 3	box	2	array	Synthetic_Uniform	1000000	std::vector	122228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	24	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	962	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	17	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	82	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	86	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	3601	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	30	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	297	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	354	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	81	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	5833	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	78	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	1148	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1032	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	115	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	15033	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	101	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	21425	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	4879	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	192	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	728553	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	180	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	1322704	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	57340	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	24	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1153	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100	std::unordered_set	79	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100	std::vector	79	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	51	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	1741	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	44	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000	std::unordered_set	274	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000	std::vector	255	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	74	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	2289	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	77	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	10000	std::unordered_set	1119	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	10000	std::vector	652	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	108	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	2771	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	111	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100000	std::unordered_set	21241	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	100000	std::vector	3421	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	153	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	3600	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	215	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	1259350	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	point	2	array	Synthetic_Uniform	1000000	std::vector	51843	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	27	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	82	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100	std::vector	84	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	52	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	356	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000	std::vector	406	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	108	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	1497	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1621	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	138	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	24425	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	100000	std::vector	11660	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	227	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	1508019	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	133992	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	28	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	88	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100	std::vector	90	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	47	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	367	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	1000	std::vector	431	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	1460	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	10000	std::vector	1208	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	159	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	24228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Maricopa_Streets.shp	100000	std::vector	10373	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	27	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100	std::unordered_set	85	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100	std::vector	87	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	62	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000	std::unordered_set	330	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000	std::vector	321	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	92	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	10000	std::unordered_set	1501	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	10000	std::vector	1257	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	147	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100000	std::unordered_set	23806	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	100000	std::vector	10508	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	235	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	1504931	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest 50	box	2	array	Synthetic_Uniform	1000000	std::vector	123339	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	41	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Spatial++ K-d Tree 2.1.8	1039	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	23	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::unordered_set	107	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	100	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	117	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Spatial++ K-d Tree 2.1.8	3959	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	64	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::unordered_set	525	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	438	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	900	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Spatial++ K-d Tree 2.1.8	8369	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	584	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::unordered_set	4771	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1713	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	9661	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Spatial++ K-d Tree 2.1.8	43342	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	5813	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::unordered_set	99998	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	11849	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	131947	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Spatial++ K-d Tree 2.1.8	1238426	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	78328	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::unordered_set	5670064	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	191738	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	40	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	Spatial++ K-d Tree 2.1.8	1222	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	std::unordered_set	104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	std::vector	94	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	137	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	Spatial++ K-d Tree 2.1.8	2011	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	99	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	std::unordered_set	594	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	std::vector	393	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1164	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	Spatial++ K-d Tree 2.1.8	4555	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	882	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	std::unordered_set	5368	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	std::vector	2558	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	14072	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	Spatial++ K-d Tree 2.1.8	39552	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	10836	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	std::unordered_set	105442	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	std::vector	24539	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	196902	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	Spatial++ K-d Tree 2.1.8	1093960	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	194109	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	std::unordered_set	5259517	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	std::vector	327977	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	45	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	std::unordered_set	114	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	133	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	std::unordered_set	652	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	564	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	948	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	std::unordered_set	5515	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	3044	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	10132	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	std::unordered_set	107121	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	27004	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	132249	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::unordered_set	6100421	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	379454	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	46	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	std::unordered_set	118	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	111	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	132	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	std::unordered_set	658	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	583	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1096	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	std::unordered_set	5145	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	2500	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	12188	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	std::unordered_set	103739	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	26545	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	44	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	std::unordered_set	115	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	std::vector	108	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	159	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	std::unordered_set	677	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	std::vector	520	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1210	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	std::unordered_set	6192	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	std::vector	3985	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	15388	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	std::unordered_set	107517	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	std::vector	41328	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	213737	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	std::unordered_set	6104583	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	std::vector	506771	0	
