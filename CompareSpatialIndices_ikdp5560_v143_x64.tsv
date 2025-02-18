@@ -1,0 +1,1805 @@
+RunEnvId/V1	Scenario	Operation	Spatial Key	Dimensions	Vector Impl	Dataset Name	Dataset Size	Spatial Index	Time	Mem Delta	Failed
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	32	-1	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	539	-15	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	752	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	7567	-245	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	78733	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	94712	-2401	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	11395493	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	87	-1	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	std::vector	10	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	926	-24	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	std::vector	749	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	15957	-206	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	std::vector	77359	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	299657	-1878	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000000	std::vector	10760448	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	72	-3	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1093	-28	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	std::vector	764	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	14997	-183	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	std::vector	77194	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	296177	-2031	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000000	std::vector	11339260	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	49	-1	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	946	-19	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	std::vector	770	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	15015	-206	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	std::vector	77316	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	283496	-1951	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000000	std::vector	11063274	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	71	-2	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	846	-54	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	std::vector	741	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	11675	-551	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	std::vector	79507	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	173046	-7358	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	11342986	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	64	-3	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1002	-44	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	std::vector	743	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	13639	-413	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	std::vector	77530	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	108	-2	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	966	-22	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	std::vector	737	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	17708	-203	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	std::vector	76248	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	392616	-3356	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000000	std::vector	11151114	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	70	-2	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	992	-18	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	std::vector	737	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	18668	-199	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	std::vector	76432	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	364011	-1868	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000000	std::vector	11062594	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	99	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1025	-20	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	std::vector	740	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	18706	-207	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	std::vector	78054	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	361605	-2169	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000000	std::vector	11200072	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	71	-1	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	std::vector	9	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1113	-18	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	std::vector	749	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	17926	-197	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	std::vector	76989	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	336676	-1938	
+IKDP5560_v143_x64	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000000	std::vector	11428048	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	14	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1065	65	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	12335	647	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	29	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	141423	6493	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	480	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	1545662	64763	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	6073	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	9	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1323	61	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	25952	631	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	std::vector	35	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	334744	6112	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	std::vector	445	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	3923287	60901	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000000	std::vector	5666	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	13	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1631	62	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	23478	617	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	std::vector	30	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	307646	6186	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	std::vector	468	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	3674383	61287	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000000	std::vector	5611	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	15	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1711	63	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	26590	627	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	std::vector	33	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	327122	6189	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	std::vector	489	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	3863843	61315	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000000	std::vector	5916	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	35	6	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1589	69	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	17034	679	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	28	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	191667	6871	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	507	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	2111445	70866	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	5878	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	49	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1536	66	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	16514	651	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	std::vector	28	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	203297	6447	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	std::vector	503	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	39	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	2015	65	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	32472	614	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	std::vector	32	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	408229	6086	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	std::vector	516	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	4648735	61034	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000000	std::vector	5834	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	29	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1866	61	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	32530	607	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	std::vector	36	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	406451	6135	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	std::vector	539	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	4771640	61055	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000000	std::vector	6013	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	36	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1933	60	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	29213	628	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	std::vector	33	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	364524	6197	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	std::vector	497	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	4475242	61299	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000000	std::vector	5818	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	38	7	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	std::vector	1	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1987	63	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	std::vector	3	8	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	32507	610	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	std::vector	34	94	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	408431	6159	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	std::vector	496	1080	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	4845683	61068	
+IKDP5560_v143_x64	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000000	std::vector	5612	8202	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	69	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	329	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	175	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	3015	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	586	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	38897	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1973	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	443157	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	10879	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	8486055	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	38	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	std::vector	305	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	82	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	2900	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	129	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	139585	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	447	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	1739969	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	15837	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000000	std::vector	21598513	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	94	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	346	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	291	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	3711	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	890	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	98540	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2979	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	1383070	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	24189	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000000	std::vector	17950946	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	106	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	348	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	315	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	3758	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1132	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	100672	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3584	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1374409	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	26205	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000000	std::vector	17892617	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	130	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	405	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	238	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	3080	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	701	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	39945	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	2305	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	533589	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	12820	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	11615066	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	120	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	370	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	114	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	2592	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	263	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	29135	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1575	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	620536	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	109	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	379	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	338	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3869	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1272	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	97600	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	3910	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	1371504	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	34168	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000000	std::vector	20336926	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	40	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	std::vector	364	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	66	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	3570	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	118	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	90440	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	587	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	1644022	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	17777	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000000	std::vector	23378214	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	99	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	370	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	316	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3747	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	929	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	94295	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	3201	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1356813	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	27958	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000000	std::vector	20067629	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	107	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	376	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	330	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	3836	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1208	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	93389	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3687	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1359713	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	30268	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000000	std::vector	20197735	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	81	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1445	15	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	17783	339	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	32	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	226174	4750	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	328	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	174	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	2761	32	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	34557	281	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	std::vector	32	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	471850	3326	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000000	std::vector	325	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	158	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	2264	19	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	29927	195	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	std::vector	32	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	432601	3145	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000000	std::vector	331	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	93	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	2036	11	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	30581	178	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	std::vector	30	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	432829	2819	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000000	std::vector	329	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	133	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1840	33	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	22366	350	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	31	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	319177	5538	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	312	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	101	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	2065	30	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	28214	438	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	std::vector	30	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	218	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	2990	18	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	35340	190	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	std::vector	31	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	533429	4394	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000000	std::vector	326	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	158	1	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	2797	19	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	38575	247	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	std::vector	31	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	521960	2754	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000000	std::vector	331	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	182	2	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	2685	16	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	std::vector	2	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	37095	255	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	std::vector	32	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	516729	3308	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000000	std::vector	328	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	162	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	3292	20	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	std::vector	3	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	36091	190	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	std::vector	31	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	510530	2978	
+IKDP5560_v143_x64	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000000	std::vector	328	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	93	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	331	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1379	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	3050	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	15210	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	39739	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	169821	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	523965	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	1892608	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	19888273	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	50	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	std::vector	306	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1679	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	std::vector	2936	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	29969	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	std::vector	140401	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	387160	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	std::vector	1819827	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	4730216	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000000	std::vector	32365353	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	111	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	std::vector	347	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	2173	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	std::vector	3735	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	27978	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	std::vector	99392	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	356176	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	std::vector	1461908	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	4442944	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000000	std::vector	29296525	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	124	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	std::vector	351	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	2193	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	std::vector	3784	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	31078	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	std::vector	101537	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	378207	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	std::vector	1454753	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	4627679	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000000	std::vector	29113562	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	213	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	406	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	2058	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	3103	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	20549	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	40793	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	230719	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	613704	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	2634041	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	22964580	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	186	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	373	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1833	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	2620	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	19922	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	29943	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	247746	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	701588	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	154	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	std::vector	381	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	2700	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	std::vector	3892	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	38402	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	std::vector	98399	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	468198	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	std::vector	1452345	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	5614454	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000000	std::vector	31494539	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	72	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	std::vector	365	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	2171	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	std::vector	3592	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	36723	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	std::vector	91304	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	467461	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	std::vector	1724768	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	5683095	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000000	std::vector	34447772	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	140	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	std::vector	372	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	2548	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	std::vector	3786	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	34112	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	std::vector	95887	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	426358	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	std::vector	1436273	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	5386602	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000000	std::vector	31274379	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	150	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	std::vector	378	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	2568	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	std::vector	3858	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	38356	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	std::vector	94248	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	468229	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	std::vector	1439405	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	5730537	0	
+IKDP5560_v143_x64	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000000	std::vector	31650396	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	2	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	76	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	50	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	19	15	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	647	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	56	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	26	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	629	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	257	161	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	6391	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	969	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	355	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	7965	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	3099	1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	82135	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	14506	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	4164	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	30	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	107108	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	BoxTreeStatic	51498	16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	950272	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	191314	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	62085	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	1248	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	29	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	60	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	39	19	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	58	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	46	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	858	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	577	161	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1732	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	1152	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	660	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	11951	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	8534	1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	15687	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	16881	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	9173	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	std::vector	35	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	166248	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	BoxTreeStatic	149029	16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	162498	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	215548	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	167985	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000000	std::vector	1239	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	61	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	36	15	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	117	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	70	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	40	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	903	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	536	161	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	957	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	1151	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	602	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	12116	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	7902	1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	9594	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	16755	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	9254	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	std::vector	30	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	174702	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	142171	16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	97827	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	213438	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	166871	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000000	std::vector	1275	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	64	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	36	15	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	148	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	73	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	40	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	907	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	569	161	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	1185	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	1258	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	635	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11770	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	8452	1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	12035	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	16695	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	8896	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	std::vector	31	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	175276	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	144633	16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	128749	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	213288	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	166500	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000000	std::vector	1224	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	15	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	50	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	27	16	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	154	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	60	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	42	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	631	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	334	139	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	1615	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	985	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	610	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	8181	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	4205	1398	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	16537	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	14569	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	8077	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	std::vector	35	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	106748	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	BoxTreeStatic	71831	13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	188067	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	188996	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	126386	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	1440	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	1	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	59	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	30	16	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	216	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	62	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	55	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	798	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	602	170	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	2076	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	1100	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	957	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	10206	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	7055	1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	22551	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	15816	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	10698	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	std::vector	31	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	55	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	65	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	42	16	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	389	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	71	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	51	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	914	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	660	170	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	2885	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	1148	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	911	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	12224	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	9626	1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	28031	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	16833	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	12936	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	std::vector	45	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	180173	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	BoxTreeStatic	181366	13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 QuadTree	313321	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 TemplateSTRTree	215239	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	nanoflann 0x161 Static	269221	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000000	std::vector	1228	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	BoxTreeStatic	3	2	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	79	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	60	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	49	20	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	582	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	60	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	48	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	883	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	701	170	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	4678	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	1132	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	988	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	std::vector	4	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	12397	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	10886	1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	55608	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	16832	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	15095	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	std::vector	49	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	179674	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	BoxTreeStatic	202938	17081	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	746127	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	216019	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	339368	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000000	std::vector	1262	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	91	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	62	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	42	16	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	665	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	70	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	52	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	916	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	653	170	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	5520	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	1150	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	860	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	12213	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	9881	1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	69959	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	16849	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	12824	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	std::vector	41	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	182772	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	193533	17081	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	924208	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	217370	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	288604	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000000	std::vector	1327	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3	6	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2	1	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	68	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	5	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	63	43	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	42	16	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	487	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	71	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	51	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	917	422	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	669	170	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	3771	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	1148	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	926	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	std::vector	3	78	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	12512	4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	9847	1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	41411	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	17006	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	12936	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	std::vector	53	781	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	183311	42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	185460	13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	577691	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	218987	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	280262	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000000	std::vector	1233	7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	28	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	1	-15	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	294	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	1	-161	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	3159	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	87	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	1	-1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	61962	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	1041	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	2554	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	BoxTreeStatic	510	-16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	1018835	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	11158	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	221	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	272	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	6	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-19	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	33	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-161	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	190	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	92	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	11	-1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	1718	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	1058	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	std::vector	13	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	3271	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	BoxTreeStatic	494	-16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	25558	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	11299	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	236	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000000	std::vector	297	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-15	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-161	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	186	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	90	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	2519	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	1028	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	std::vector	10	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	3411	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	507	-16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	26908	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	11249	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	227	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000000	std::vector	298	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-15	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	20	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-161	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	175	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	18	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	86	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	64	-1615	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	2416	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	1038	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	3923	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	504	-16154	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	27309	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	11207	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	221	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000000	std::vector	296	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	1	-16	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	15	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1	-139	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	129	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	92	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	1	-1398	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	1551	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	1028	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	std::vector	2	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	2449	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	BoxTreeStatic	489	-13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	30473	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	11144	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	268	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	287	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	1	-16	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	34	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	1	-170	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	287	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	92	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	1	-1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	3683	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	1017	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	19	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	1	-16	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	136	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	1	-170	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	951	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	std::vector	6	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	102	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	5	-1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	8048	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	1018	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	std::vector	38	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	2563	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	BoxTreeStatic	508	-13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 QuadTree	87830	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 TemplateSTRTree	11191	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	nanoflann 0x161 Static	310	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000000	std::vector	321	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-2	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	30	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-20	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	241	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-170	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	2011	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	14	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	std::vector	9	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	106	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	50	-1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	40358	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	1018	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	4	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	std::vector	45	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	2645	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	BoxTreeStatic	510	-17081	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	345461	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	11034	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	300	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000000	std::vector	323	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	38	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-16	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	313	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-170	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	2742	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	std::vector	4	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	98	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	60297	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	1017	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	3	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	std::vector	15	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	2553	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	538	-17081	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	550762	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	11260	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	323	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000000	std::vector	308	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	25	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-16	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	196	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	7	-422	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-170	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	1567	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	13	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	std::vector	2	-78	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	93	-4211	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1	-1707	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	24812	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	1031	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	2	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	std::vector	14	-781	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	2547	-42087	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	500	-13992	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	211624	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	11224	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	292	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000000	std::vector	306	-7812	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	97	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	168	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	986	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	605	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	62	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	400	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	161	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	262	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	1500	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	1180	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	87	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	3040	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	516	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	623	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	4563	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	2568	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	163	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	34173	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1459	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	1498	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	38655	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	6432	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	370	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	353266	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	8898	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	BoxTreeStatic	10378	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 QuadTree	332751	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	GEOS 3.13.0 TemplateSTRTree	26130	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	3804	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	6947822	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	63	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	BoxTreeStatic	178	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	304	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	435	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	53	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	std::vector	360	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	175	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	167	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	321	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	666	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	47	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	3917	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	185	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	423	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	1069	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	96	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	118221	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	557	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	914	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	1262	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	3211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	565	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	1571900	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	13256	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	BoxTreeStatic	22734	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	19548	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	24935	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	7440	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000000	std::vector	18994223	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	138	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	235	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	1021	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	640	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	90	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	384	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	348	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	458	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	4290	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1404	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	154	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	3909	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	909	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1031	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	60412	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	3082	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	244	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	89751	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2668	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	2065	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	939550	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	8211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	650	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	1269167	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	19792	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	23908	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	12776449	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	36574	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	6034	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000000	std::vector	15994861	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	151	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	279	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	905	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	733	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	119	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	389	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	383	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	521	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	2743	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1542	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	170	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	3803	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1063	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1265	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	20304	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	3303	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	257	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	91224	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	2582	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1648	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	436651	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	8628	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	576	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1277327	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	19857	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	23916	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	6686085	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	36971	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	5832	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000000	std::vector	16162467	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	133	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	229	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	818	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	853	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	129	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	408	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	237	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	415	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	1398	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	1669	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	212	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2914	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	673	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1236	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	3263	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	3447	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	668	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	32976	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	1826	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	3203	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	10013	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	7744	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	2045	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	410274	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	10399	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	BoxTreeStatic	14576	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 QuadTree	36404	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	GEOS 3.13.0 TemplateSTRTree	26616	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	nanoflann 0x161 Static	8523	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	9340049	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	160	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	313	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	1115	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1083	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	145	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	386	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	132	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	157	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	819	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	931	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	115	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	2418	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	276	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	356	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	1228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	1780	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	279	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	26818	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1290	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	2142	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	7595	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	5777	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	1413	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	466890	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	152	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	313	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	1091	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	778	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	174	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	385	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	393	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	637	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	1961	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	1571	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	352	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3921	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1193	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	2004	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	4374	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	3504	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	948	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	91613	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	3178	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	3726	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	22211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	9620	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	4147	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	1273988	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	27088	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	BoxTreeStatic	34657	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 QuadTree	268296	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	GEOS 3.13.0 TemplateSTRTree	45825	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	nanoflann 0x161 Static	25262	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000000	std::vector	17775156	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	97	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	BoxTreeStatic	185	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	321	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	477	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	93	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	std::vector	358	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	188	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	191	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	498	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	669	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	3610	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	199	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	269	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1749	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	1063	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	175	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	92231	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	631	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	1371	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	32781	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	3430	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	936	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	1531280	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	14943	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	BoxTreeStatic	27793	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 QuadTree	238779	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	GEOS 3.13.0 TemplateSTRTree	24407	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	9798	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000000	std::vector	20562751	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	135	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	263	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	1031	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	698	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	140	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	377	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	341	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	502	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	1921	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1385	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	286	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3809	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	941	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1134	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	5113	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	3104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	667	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	93136	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2770	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	2665	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	60642	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	8302	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2347	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1270461	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	22568	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	30310	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 QuadTree	453804	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	GEOS 3.13.0 TemplateSTRTree	36927	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	17302	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000000	std::vector	17647934	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	152	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	310	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	1109	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	773	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	172	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	384	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	377	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	584	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	2039	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1556	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	336	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	3904	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1131	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1625	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	5455	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	3353	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	892	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	93211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3062	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	4220	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	35020	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	8819	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	4171	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1256182	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	23415	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	34472	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 QuadTree	265493	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	GEOS 3.13.0 TemplateSTRTree	39552	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	28105	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000000	std::vector	17690965	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	3030	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1850	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1605	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	3952	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	4963	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	2702	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	2375	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	17695	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	7807	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	4637	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	3647	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	83123	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	10394	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	6868	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	4779	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	632371	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	14406	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000000	BoxTreeStatic	73577	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	5935	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	9051565	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2989	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	BoxTreeStatic	2047	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1841	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	std::vector	3058	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	8001	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	4664	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	2307	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	std::vector	12068	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	11484	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	29513	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	3307	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	std::vector	64585	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	15740	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	373090	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	3822	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	std::vector	553936	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	22173	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000000	BoxTreeStatic	10196916	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	4731	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000000	std::vector	8594104	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3100	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	2008	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1852	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	std::vector	3749	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	6628	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3777	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	3307	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	std::vector	12939	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8462	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	4951	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	4146	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	std::vector	65095	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	10949	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	6506	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	5465	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	std::vector	555843	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	19600	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	15272	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	14163	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000000	std::vector	8703199	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3127	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	2311	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	2225	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	std::vector	4067	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	6407	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4000	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	3527	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	std::vector	13440	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8031	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	5152	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	4289	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	std::vector	64818	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11315	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	7581	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	6489	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	std::vector	557591	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	20073	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	18099	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	16118	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000000	std::vector	8830360	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	3331	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	2471	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	std::vector	4681	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	5790	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	4781	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	std::vector	26349	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	9260	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	12068	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	std::vector	167630	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	12096	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	24793	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1489319	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	15912	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000000	BoxTreeStatic	172566	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	18138539	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	3798	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2768	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	std::vector	5230	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	5254	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	4380	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	std::vector	26455	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	7547	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	16361	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	std::vector	147894	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	11228	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	19194	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	std::vector	1438013	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	3593	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2797	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	std::vector	5382	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	7547	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	5061	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	std::vector	26510	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	9664	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	10966	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	std::vector	198378	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	13209	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	24930	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	std::vector	1924866	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	32673	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000000	BoxTreeStatic	125986	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000000	std::vector	21303093	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3375	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	BoxTreeStatic	2218	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	std::vector	4164	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	8342	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	7063	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	std::vector	24628	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	12774	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	56322	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	std::vector	192793	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	16686	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	691874	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	std::vector	1893517	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	21618	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000000	BoxTreeStatic	22328535	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000000	std::vector	21424711	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3588	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2710	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	std::vector	5122	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	7520	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	4346	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	std::vector	25564	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	9768	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	6062	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	std::vector	197025	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	12132	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	8724	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	std::vector	1876790	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	24574	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	33062	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000000	std::vector	21371837	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3585	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2798	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	std::vector	5362	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	7373	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4741	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	std::vector	26191	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	9560	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	7611	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	std::vector	195740	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	12780	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	20476	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	std::vector	1881156	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	25477	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	68971	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000000	std::vector	21358234	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	3150	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	2045	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1671	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	4369	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	5209	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	3017	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	2501	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	20742	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	9131	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	5599	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	4269	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	118342	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	21468	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	11629	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	9461	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	995485	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	Boost R-tree 1_86	138019	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	BoxTreeStatic	136303	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	nanoflann 0x161 Static	72465	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000000	std::vector	16004478	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3064	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	BoxTreeStatic	2232	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1899	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	std::vector	3426	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	8279	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	4877	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	2402	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	std::vector	16108	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	12570	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	30391	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	4085	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	std::vector	183099	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	28978	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	382572	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	13660	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	std::vector	2126687	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	206853	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000000	BoxTreeStatic	10369415	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000000	nanoflann 0x161 Static	180499	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000000	std::vector	27617100	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3254	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	2251	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1951	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	std::vector	4169	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	7059	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	4288	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	3514	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	std::vector	17461	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	10362	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	6548	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	5072	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	std::vector	155235	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	26403	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	16648	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	15777	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	std::vector	1825467	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	219215	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	182806	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000000	nanoflann 0x161 Static	187908	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000000	std::vector	24762764	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3290	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	2597	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	2355	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	std::vector	4480	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	6871	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4575	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	3746	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	std::vector	17867	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	10216	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	7028	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	5205	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	std::vector	156645	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	26243	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	18182	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	16327	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	std::vector	1835361	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	219325	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	187470	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	nanoflann 0x161 Static	189634	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000000	std::vector	25023469	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	3472	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	2744	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	5092	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	6145	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	5267	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	29337	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	10764	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	13900	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	202338	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	24432	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	33188	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1900424	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	Boost R-tree 1_86	144981	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	BoxTreeStatic	260837	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000000	std::vector	27486477	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	3974	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	3124	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	5629	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	5477	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	4635	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	28960	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	8969	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	17441	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	174772	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	24616	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	28853	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	1909456	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	3771	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	3127	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	std::vector	5796	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	8016	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	5757	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	std::vector	30846	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	11923	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	13702	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	std::vector	296712	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	29490	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	39579	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	std::vector	3200068	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000000	Boost R-tree 1_86	244191	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000000	BoxTreeStatic	346576	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000000	std::vector	39088939	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3483	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	BoxTreeStatic	2413	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	std::vector	4545	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	8633	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	7314	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	std::vector	28303	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	13899	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	57311	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	std::vector	293741	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	30525	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	706123	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	std::vector	3426182	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000000	Boost R-tree 1_86	220721	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000000	BoxTreeStatic	22570780	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000000	std::vector	41996211	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	3746	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2987	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	std::vector	5533	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	7947	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	4909	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	std::vector	29772	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	11728	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	7904	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	std::vector	291221	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	27739	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	21824	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	std::vector	3148532	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000000	Boost R-tree 1_86	234830	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000000	BoxTreeStatic	263526	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000000	std::vector	39031018	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	3759	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	3124	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	std::vector	5778	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	7853	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	5377	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	std::vector	30860	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	11664	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	10025	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	std::vector	289051	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	29194	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	35501	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	std::vector	3138634	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	Boost R-tree 1_86	237816	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	BoxTreeStatic	294077	0	
+IKDP5560_v143_x64	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000000	std::vector	39060079	0	

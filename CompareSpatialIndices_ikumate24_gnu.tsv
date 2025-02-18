@@ -1,0 +1,1473 @@
+RunEnvId/V1	Scenario	Operation	Spatial Key	Dimensions	Vector Impl	Dataset Name	Dataset Size	Spatial Index	Time	Mem Delta	Failed
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	27	-1	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	368	-18	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1223	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	7432	-245	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	187130	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	42	-6	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	583	-15	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	std::vector	1252	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	9847	-202	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	std::vector	211554	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	45	-3	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	std::vector	15	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	638	-26	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	std::vector	1271	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	8765	-186	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	std::vector	212812	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	24	-1	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	607	-18	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	std::vector	1320	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	8892	-200	
+ikumate24_gnu	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	std::vector	275530	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	61	-3	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	979	-56	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1303	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	14213	-562	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	std::vector	208079	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	54	-3	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1041	-56	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	std::vector	1235	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	14501	-409	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	std::vector	206455	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	81	-2	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	758	-20	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	std::vector	1237	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	13482	-204	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	std::vector	185039	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	80	-5	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	773	-13	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	std::vector	1242	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	13347	-185	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	std::vector	212164	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	79	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	749	-19	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	std::vector	1242	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	13883	-210	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	std::vector	194198	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	52	-1	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	std::vector	12	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	894	-18	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	std::vector	1253	0	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	13503	-191	
+ikumate24_gnu	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	std::vector	183219	0	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	10	6	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1013	65	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	16415	647	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	19	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	182696	6494	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	206	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	11	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1171	67	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	21288	609	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	std::vector	23	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	289775	6143	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	std::vector	260	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	11	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1293	62	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	std::vector	3	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	18090	617	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	std::vector	24	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	229200	6186	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	std::vector	239	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	12	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1336	63	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	21588	627	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	std::vector	26	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	247568	6189	
+ikumate24_gnu	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	std::vector	440	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	21	6	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1436	69	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	20188	679	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	17	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	225721	6873	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	225	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	30	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1513	66	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	18735	665	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	std::vector	19	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	225653	6496	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	std::vector	232	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	24	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1451	65	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	25066	614	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	std::vector	23	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	304830	6086	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	std::vector	361	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	18	6	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1555	67	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	25680	632	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	std::vector	25	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	301648	6116	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	std::vector	350	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	23	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1418	60	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	21717	628	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	std::vector	25	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	268455	6197	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	std::vector	309	1024	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	24	7	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	std::vector	1	1	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1414	63	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	std::vector	2	8	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	24556	610	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	std::vector	25	128	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	299254	6159	
+ikumate24_gnu	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	std::vector	235	1024	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	120	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	316	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	226	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	2186	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	626	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	33674	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	2020	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	472582	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	31	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	std::vector	303	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	31	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	3066	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	114	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	102208	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	464	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	2007337	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	75	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	310	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	287	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	4121	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	855	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	103234	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2846	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	1732532	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	91	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	312	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	312	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	3278	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1125	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	96363	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3329	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1983011	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	156	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	392	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	282	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2981	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	785	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	36039	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	2301	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	652828	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	137	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	363	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	157	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	2289	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	309	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	29419	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1602	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	758842	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	91	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	335	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	321	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3538	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1290	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	106845	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	3885	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	1874058	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	32	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	std::vector	301	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	66	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	3152	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	127	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	109945	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	606	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	2237399	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	82	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	326	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	304	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3428	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	885	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	111789	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	3337	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1646448	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	92	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	331	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	308	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	3508	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1222	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	107929	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3637	0	
+ikumate24_gnu	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1691727	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	123	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1285	16	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	20407	343	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	26	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	110	5	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1693	16	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	23788	236	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	std::vector	38	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	130	2	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1692	15	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	20711	195	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	std::vector	36	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	55	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1555	14	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	20908	180	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	std::vector	35	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	131	3	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1447	32	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	21006	348	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	28	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	175	2	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1679	37	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	23817	410	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	std::vector	31	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	142	1	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	2111	15	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	24528	193	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	std::vector	26	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	215	2	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1970	13	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	28615	240	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	std::vector	30	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	133	2	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1909	15	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	25300	267	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	std::vector	28	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	115	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	2378	19	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	std::vector	2	0	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	23997	191	
+ikumate24_gnu	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	std::vector	27	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	133	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	318	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1396	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	2204	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	18775	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	35029	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	212793	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	687929	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	46	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	std::vector	304	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1368	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	std::vector	3083	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	23776	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	std::vector	104967	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	326807	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	std::vector	2219202	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	88	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	std::vector	312	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1786	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	std::vector	4145	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	21497	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	std::vector	104539	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	261721	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	std::vector	1946050	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	106	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	std::vector	313	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1744	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	std::vector	3295	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	25021	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	std::vector	97795	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	281139	0	
+ikumate24_gnu	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	std::vector	2259027	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	183	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	393	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1928	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2998	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	23578	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	37387	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	263899	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	867962	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	172	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	365	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1920	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	2307	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	21876	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	30824	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	266572	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	967834	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	118	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	std::vector	337	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	2061	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	std::vector	3556	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	29689	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	std::vector	108160	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	348752	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	std::vector	2059495	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	54	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	std::vector	303	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1922	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	std::vector	3172	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	28741	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	std::vector	112646	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	346446	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	std::vector	2449955	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	108	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	std::vector	327	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1951	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	std::vector	3446	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	25335	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	std::vector	113152	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	312398	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	std::vector	1841156	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	120	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	std::vector	333	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1907	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	std::vector	3525	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	29242	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	std::vector	109399	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	345735	0	
+ikumate24_gnu	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	std::vector	1900933	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	24	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	31	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	18	16	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	300	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	47	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	22	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	406	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	240	165	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	3014	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	738	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	304	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	5082	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	3005	1659	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	58776	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	9415	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	3632	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	24	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	7	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	40	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	38	24	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	125	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	24	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	42	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	629	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	563	165	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	932	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	847	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	579	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	8661	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	8277	1659	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	9084	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	11160	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	8558	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	std::vector	47	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	4	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	44	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	35	16	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	68	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	63	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	42	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	624	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	534	165	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	451	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	892	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	526	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	8540	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	8620	1659	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	5190	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	11946	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	8725	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	std::vector	60	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	4	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	42	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	34	16	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	78	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	64	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	36	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	636	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	543	165	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	552	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	888	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	552	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	8743	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	8740	1659	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	5779	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	11813	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	8401	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	std::vector	73	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	2	2	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	5	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	32	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	24	18	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	64	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	59	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	33	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	462	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	314	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	774	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	770	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	485	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	5554	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	4139	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	9831	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	9739	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	6639	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	std::vector	42	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2	2	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	6	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	41	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	42	18	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	96	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	39	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	41	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	573	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	566	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	1134	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	853	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	785	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	7467	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	7247	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	15703	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	10476	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	9275	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	std::vector	19	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	16	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	44	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	40	18	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	162	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	66	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	42	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	689	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	632	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	1690	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	889	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	756	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	9185	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	9934	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	20754	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	11204	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	11418	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	std::vector	28	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	BoxTreeStatic	2	2	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	21	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	43	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	46	28	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	290	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	27	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	36	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	641	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	666	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	3221	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	878	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	833	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	std::vector	3	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	8854	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	10920	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	62733	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	11514	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	12745	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	std::vector	51	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	2	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	29	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	44	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	41	18	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	305	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	66	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	43	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	646	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	630	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	3552	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	904	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	730	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	8917	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	10107	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	68329	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	11450	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	11412	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	std::vector	25	781	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	6	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2	1	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	21	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	46	43	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	40	18	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	221	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	67	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	41	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	648	422	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	640	185	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	2427	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	899	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	773	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	8652	4211	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	10094	1855	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	31531	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	11520	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	11576	0	
+ikumate24_gnu	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	std::vector	55	781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	12	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	1	-16	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	142	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	1	-165	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	2950	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	11	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	55	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	1	-1659	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	96227	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	245	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-24	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	14	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	4	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-165	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	167	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	19	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	55	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	1	-1659	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	1137	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	206	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-16	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	9	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-165	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	129	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	17	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	53	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1659	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	1342	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	298	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-16	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	8	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	4	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-165	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	133	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	16	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	53	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1	-1659	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	1641	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	407	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1	-2	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	1	-18	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	7	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	69	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	13	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	56	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	739	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	332	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	1	-2	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	1	-18	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	15	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	159	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	65	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	1946	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	235	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	8	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	1	-18	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	74	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	514	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	11	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	58	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	5717	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	293	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-2	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	10	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-28	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	135	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1151	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	11	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	61	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	20059	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	278	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-2	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	17	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-18	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	173	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	1549	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	16	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	58	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	23879	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	313	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	12	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-18	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	111	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	5	-422	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-185	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	888	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	18	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	56	-4211	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1	-1855	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	11664	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	227	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	1	0	
+ikumate24_gnu	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	87	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	96	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	221	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	55	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	47	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	340	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	247	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	167	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	392	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	137	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	78	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	2058	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	629	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	422	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	1783	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	495	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	145	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	26332	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1754	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	910	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	20047	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	1438	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	305	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	328821	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	82	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	BoxTreeStatic	72	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	72	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	37	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	34	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	std::vector	350	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	165	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	54	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	82	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	63	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	34	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	3678	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	186	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	83	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	161	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	94	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	78	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	90428	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	417	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	434	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	927	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	319	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	517	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	2052221	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	116	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	114	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	538	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	59	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	59	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	345	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	351	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	290	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	4287	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	211	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	129	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	3602	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	933	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	730	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	76641	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	739	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	185	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	87918	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2608	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1384	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	1234757	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	2028	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	561	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	1534289	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	134	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	164	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	351	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	71	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	86	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	348	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	367	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	340	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	2191	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	253	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	121	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	3614	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1074	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	901	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	23488	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	864	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	195	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	91323	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	2502	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	979	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	615644	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	2248	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	494	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1613045	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	136	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	129	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	241	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	69	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	112	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	358	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	349	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	297	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	606	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	220	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	221	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2695	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	902	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1001	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	2321	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	662	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	651	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	32693	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	2221	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	2162	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	8354	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	1758	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	1878	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	451438	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	221	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	199	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	374	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	95	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	130	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	365	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	217	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	94	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	196	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	85	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	129	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	2048	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	345	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	218	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	515	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	191	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	244	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	28284	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1428	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	1340	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	5211	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	1024	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	1307	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	507784	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	144	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	157	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	261	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	66	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	161	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	319	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	399	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	403	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	700	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	266	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	320	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3770	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1199	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	1412	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	2483	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	932	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	880	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	113660	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	3249	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	2417	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	16609	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	2327	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	3988	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	1941414	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	55	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	BoxTreeStatic	72	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	77	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	41	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	121	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	std::vector	266	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	174	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	68	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	179	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	61	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	79	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	3034	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	188	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	120	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1159	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	100	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	153	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	144843	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	590	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	694	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	14934	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	314	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	762	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	2258867	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	123	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	124	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	242	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	60	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	123	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	304	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	334	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	298	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	692	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	208	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	253	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3500	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	944	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	797	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	2914	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	734	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	608	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	102886	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2741	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1677	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	34448	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	2079	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2201	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1807446	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	152	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	156	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	267	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	66	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	161	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	315	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	401	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	364	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	746	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	256	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	300	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	3663	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1100	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1175	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	2975	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	875	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	831	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	105696	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	2966	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	2845	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	20019	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	2225	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	3953	0	
+ikumate24_gnu	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1708700	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1970	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1750	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1120	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	3239	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	4098	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	2429	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1815	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	15816	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	7230	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	4227	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	2992	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	73803	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	9780	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	6333	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	4082	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	553794	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1892	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1558	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1069	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	std::vector	2537	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	4514	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	4046	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1789	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	std::vector	10280	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	9049	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	26564	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	2669	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	std::vector	51541	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	11584	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	399756	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	2890	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	std::vector	560370	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1946	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1660	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1317	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	std::vector	3134	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	4746	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3525	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	3142	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	std::vector	11676	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	7040	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	4774	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	3257	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	std::vector	53626	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	8645	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	6612	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	4613	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	std::vector	472415	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2153	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	2115	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1607	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	std::vector	3494	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	4520	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	3684	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2824	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	std::vector	11365	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	6841	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	4793	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	3474	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	std::vector	53902	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	9768	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	7593	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	5439	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	std::vector	633417	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2420	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1955	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	std::vector	3140	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	5175	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	3891	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	std::vector	17044	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	9927	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	10277	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	std::vector	94793	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	13184	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	21467	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	std::vector	875091	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2783	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2497	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	std::vector	3630	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	4225	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	3403	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	std::vector	15987	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	6912	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	11035	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	std::vector	83994	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	11856	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	14848	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	std::vector	888599	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2435	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2256	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	std::vector	3517	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	5413	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	4339	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	std::vector	13951	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	8582	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	10036	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	std::vector	87819	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	12210	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	23120	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	std::vector	864697	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2070	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1743	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	std::vector	2201	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	6686	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	4661	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	std::vector	11054	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	11165	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	36488	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	std::vector	83475	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	14781	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	552931	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	std::vector	839269	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2522	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2126	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	std::vector	3150	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	5349	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3655	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	std::vector	13482	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8189	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	5305	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	std::vector	82799	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	11141	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	7923	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	std::vector	849433	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2584	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2263	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	std::vector	3445	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	5668	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4063	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	std::vector	13874	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8046	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	6792	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	std::vector	83089	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11307	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	19027	0	
+ikumate24_gnu	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	std::vector	886428	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	2065	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1853	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1172	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	3603	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	4386	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	2620	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1921	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	17945	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	8276	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	5006	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	3469	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	103717	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	16786	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	10396	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	8122	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	914154	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1978	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1638	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1117	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	std::vector	2945	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	4743	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	4157	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1868	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	std::vector	14192	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	9962	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	27249	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	3340	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	std::vector	146064	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	20743	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	408509	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	12260	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	std::vector	2612998	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2069	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1781	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1381	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	std::vector	3482	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	5164	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3866	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	3332	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	std::vector	15563	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8626	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	6147	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	4016	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	std::vector	143601	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	20257	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	17490	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	14415	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	std::vector	2007217	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2294	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	2287	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1706	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	std::vector	3872	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	4947	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4080	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2994	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	std::vector	15014	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8644	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	6345	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	4264	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	std::vector	154443	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	21186	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	17804	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	14709	0	
+ikumate24_gnu	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	std::vector	2247356	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2561	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	2105	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	3511	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	5567	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	4245	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	20112	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	11428	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	11608	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	134213	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	21256	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	28115	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1390744	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	3018	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2742	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	4014	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	4490	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	3548	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	18137	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	7874	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	11929	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	126134	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	21040	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	25114	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	1396743	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2585	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2422	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	std::vector	3866	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	5876	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	4807	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	std::vector	17769	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	10658	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	12329	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	std::vector	201539	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	24936	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	36301	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	std::vector	2806849	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2136	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1822	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	std::vector	2480	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	6922	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	4780	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	std::vector	15125	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	12178	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	37435	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	std::vector	241167	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	24326	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	581064	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	std::vector	3099536	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2664	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2257	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	std::vector	3486	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	5736	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	4004	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	std::vector	17076	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	9896	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	6846	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	std::vector	200820	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	23317	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	20448	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	std::vector	2657608	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2748	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2435	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	std::vector	3773	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	6142	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4517	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	std::vector	17999	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	9962	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	8736	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	std::vector	212796	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	23148	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	32663	0	
+ikumate24_gnu	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	std::vector	2595881	0	

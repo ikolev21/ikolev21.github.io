@@ -1,0 +1,1473 @@
+RunEnvId/V1	Scenario	Operation	Spatial Key	Dimensions	Vector Impl	Dataset Name	Dataset Size	Spatial Index	Time	Mem Delta	Failed
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	27	-1	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	13	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	386	-18	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1822	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	11546	-245	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	266513	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	43	-6	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	1000	std::vector	13	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	583	-15	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	10000	std::vector	1387	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	15276	-202	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Islands	100000	std::vector	230994	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	45	-3	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	676	-26	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	10000	std::vector	1383	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	30555	-186	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Skewed	100000	std::vector	555526	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	26	-1	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	1000	std::vector	13	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	619	-18	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	10000	std::vector	1267	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11605	-200	
+ikrocky8_clang	Insert-Erase-Query	Erase	point	2	array	Synthetic_Uniform	100000	std::vector	215884	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	36	-3	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	1000	std::vector	13	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	745	-56	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1331	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	11912	-562	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Parcels.shp	100000	std::vector	245206	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	27	-3	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	1000	std::vector	13	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	753	-56	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	10000	std::vector	1356	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	13774	-409	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Maricopa_Streets.shp	100000	std::vector	209816	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	84	-2	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	1000	std::vector	16	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	550	-20	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	10000	std::vector	1369	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	12579	-204	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Aspect	100000	std::vector	280062	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	70	-5	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	1000	std::vector	14	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	573	-13	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	10000	std::vector	1391	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	11582	-185	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Islands	100000	std::vector	172735	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	75	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	1000	std::vector	18	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	596	-19	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	10000	std::vector	1342	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	12871	-210	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Skewed	100000	std::vector	177927	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	35	-1	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	674	-18	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	10000	std::vector	1316	0	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11544	-191	
+ikrocky8_clang	Insert-Erase-Query	Erase	box	2	array	Synthetic_Uniform	100000	std::vector	169808	0	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	6	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	937	65	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	27225	647	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	25	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	256576	6494	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	272	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	7	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1184	67	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	25485	609	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	10000	std::vector	32	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	380665	6143	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Islands	100000	std::vector	322	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1292	62	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	1000	std::vector	1	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	22566	617	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	10000	std::vector	30	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	749040	6186	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Skewed	100000	std::vector	683	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1309	63	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	25743	627	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	10000	std::vector	30	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	309784	6189	
+ikrocky8_clang	Insert-Erase-Query	Insert	point	2	array	Synthetic_Uniform	100000	std::vector	500	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	14	6	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1170	69	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	20568	679	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	24	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	301186	6873	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	419	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	10	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1232	66	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	19138	665	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	10000	std::vector	22	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	314700	6496	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Maricopa_Streets.shp	100000	std::vector	479	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	6	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1872	65	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	1000	std::vector	3	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	26448	614	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	10000	std::vector	28	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	452084	6086	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Aspect	100000	std::vector	647	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3	6	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1618	67	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	1000	std::vector	2	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	29781	632	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	10000	std::vector	31	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	336654	6116	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Islands	100000	std::vector	265	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1859	60	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	1000	std::vector	3	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	23672	628	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	10000	std::vector	28	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	306704	6197	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Skewed	100000	std::vector	284	1024	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	7	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100	std::vector	1	1	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1347	63	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	1000	std::vector	1	8	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	29595	610	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	10000	std::vector	35	128	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	341274	6159	
+ikrocky8_clang	Insert-Erase-Query	Insert	box	2	array	Synthetic_Uniform	100000	std::vector	268	1024	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	93	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	218	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	195	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1867	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	781	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	41571	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	2420	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	578374	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	39	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100	std::vector	196	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	39	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	1991	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	107	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	105609	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	532	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	2681223	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	70	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	207	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	271	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	2267	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	903	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	99655	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	11411	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	3400787	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	76	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	221	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	305	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	2282	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1247	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	96158	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	4129	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1786645	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	135	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	301	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	251	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2801	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	776	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	39759	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	2540	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	932794	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	124	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	254	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	138	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	1675	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	285	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	33695	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1901	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	912619	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	82	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	255	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	442	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3490	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1392	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	78641	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	4843	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	2297998	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	36	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100	std::vector	244	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	72	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	2539	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	128	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	110093	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	712	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	1819724	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	80	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	239	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	401	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3475	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1052	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	75710	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	4037	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1513469	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	77	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	236	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	308	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	2581	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1372	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	80930	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	4738	0	
+ikrocky8_clang	Insert-Erase-Query	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1469965	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Islands	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	point	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Aspect	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Islands	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Skewed	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	10000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Rebalance	box	2	array	Synthetic_Uniform	100000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	129	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	1660	16	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	27554	343	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	36	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	108	5	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	1902	16	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	22575	236	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Islands	100000	std::vector	44	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	131	2	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1795	15	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	59509	195	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Skewed	100000	std::vector	106	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	55	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1606	14	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	26226	180	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	point	2	array	Synthetic_Uniform	100000	std::vector	39	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	114	3	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	1407	32	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	24827	348	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Parcels.shp	100000	std::vector	38	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	160	2	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	1476	37	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	24737	410	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Maricopa_Streets.shp	100000	std::vector	35	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	190	1	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	2034	15	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	26956	193	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Aspect	100000	std::vector	37	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	235	2	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	2196	13	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	31411	240	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Islands	100000	std::vector	35	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	171	2	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1962	15	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	28904	267	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Skewed	100000	std::vector	36	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	119	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	1000	std::vector	1	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	2547	19	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	10000	std::vector	3	0	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	28112	191	
+ikrocky8_clang	Insert-Erase-Query	Reinsert	box	2	array	Synthetic_Uniform	100000	std::vector	36	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	99	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	220	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1307	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1885	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	30080	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	43738	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	319685	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	847163	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	48	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100	std::vector	198	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1381	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	1000	std::vector	2008	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	29294	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	10000	std::vector	108292	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	420181	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Islands	100000	std::vector	2912596	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	79	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100	std::vector	208	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1765	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	1000	std::vector	2285	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	27066	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	10000	std::vector	103665	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	870798	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Skewed	100000	std::vector	3957118	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	94	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100	std::vector	222	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1733	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	1000	std::vector	2300	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	29951	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	10000	std::vector	97683	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	355318	0	
+ikrocky8_clang	Insert-Erase-Query	Total	point	2	array	Synthetic_Uniform	100000	std::vector	2003094	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	153	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	302	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1656	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2820	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	23911	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	41466	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	364042	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1178692	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	145	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	255	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1582	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	1693	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	22143	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	35314	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	377790	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	1123093	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	115	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100	std::vector	256	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	2622	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	1000	std::vector	3516	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	30766	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	10000	std::vector	80272	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	506153	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Aspect	100000	std::vector	2578760	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	49	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100	std::vector	245	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	2008	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	1000	std::vector	2559	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	32789	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	10000	std::vector	111634	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	381876	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Islands	100000	std::vector	1992884	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	96	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100	std::vector	241	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	2547	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	1000	std::vector	3498	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	28218	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	10000	std::vector	77642	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	356335	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Skewed	100000	std::vector	1691728	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	101	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100	std::vector	237	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1829	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	1000	std::vector	2599	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	35448	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	10000	std::vector	83376	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	386018	0	
+ikrocky8_clang	Insert-Erase-Query	Total	box	2	array	Synthetic_Uniform	100000	std::vector	1646344	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	23	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	33	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	18	16	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	307	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	44	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	25	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	475	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	246	165	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	5274	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	841	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	446	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	3	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	7583	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	5216	1659	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	166100	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	19225	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	11108	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	42	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	3	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	BoxTreeStatic	2	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	2	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	3	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	47	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	42	24	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	128	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	46	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	54	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	777	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	898	165	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	882	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	861	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	737	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	10000	std::vector	4	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	9157	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	9614	1659	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	9531	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	12082	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	11206	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Islands	100000	std::vector	102	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	4	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	45	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	33	16	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	66	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	66	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	43	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	629	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	514	165	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	463	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	907	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	657	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	10000	std::vector	3	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	11379	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	8863	1659	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	5856	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	12341	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	29495	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Skewed	100000	std::vector	77	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	46	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	16	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	80	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	67	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	42	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	625	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	536	165	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	572	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	878	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	668	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	10887	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	7662	1659	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	6716	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	13421	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	11367	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	point	2	array	Synthetic_Uniform	100000	std::vector	73	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	2	2	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	5	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	34	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	24	18	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	60	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	43	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	48	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	437	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	306	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	714	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	774	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	694	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	10000	std::vector	2	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	5580	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	4627	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	9887	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	11059	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	11139	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Parcels.shp	100000	std::vector	46	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2	2	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	6	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	42	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	29	18	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	86	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	37	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	61	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	558	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	559	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	1029	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	850	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1067	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	10000	std::vector	2	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	7464	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	7212	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	18440	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	10645	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	13245	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Maricopa_Streets.shp	100000	std::vector	40	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	1	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	12	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	64	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	55	18	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	234	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	92	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	61	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	696	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	855	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	1773	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	913	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	966	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	10000	std::vector	3	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	10385	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	10419	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	23850	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	13494	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	14351	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Aspect	100000	std::vector	57	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	BoxTreeStatic	2	2	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	10	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	46	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	46	28	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	280	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	34	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	54	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	726	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	726	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	3398	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	956	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1217	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	10000	std::vector	2	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	10258	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	12549	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	48742	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	12561	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	18096	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Islands	100000	std::vector	201	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2	2	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	34	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	52	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	41	18	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	432	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	96	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	79	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	918	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	806	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	5742	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	1255	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	957	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	10000	std::vector	3	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	9525	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	10969	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	70237	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	12750	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	15552	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Skewed	100000	std::vector	28	781	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2	6	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	1	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	22	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	45	43	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	39	18	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	224	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	68	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	45	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	1000	std::vector	1	7	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	674	422	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	632	185	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	2539	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	889	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1006	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	10000	std::vector	2	78	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	10056	4211	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	10997	1855	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	36503	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	13196	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	15007	0	
+ikrocky8_clang	Load-Query-Destroy	Bulk Load	box	2	array	Synthetic_Uniform	100000	std::vector	188	781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	10	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	1	-16	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	134	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	7	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	1	-165	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	4659	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	13	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	75	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	1	-1659	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	154378	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	485	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	5	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-24	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	14	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	10	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-165	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	147	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	8	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	64	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	1	-1659	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	1101	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	317	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Islands	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-16	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	7	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	5	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-165	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	119	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	98	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1659	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	2490	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	440	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	7	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Skewed	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-16	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	4	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-165	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	102	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	10	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	52	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1	-1659	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	1590	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	377	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	point	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1	-2	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	1	-18	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	6	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	5	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	62	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	52	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	758	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	339	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	3	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	1	-2	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	1	-18	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	14	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	5	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	140	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	62	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	2036	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	328	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Maricopa_Streets.shp	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	9	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	1	-18	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	97	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	5	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	516	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	56	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	7811	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	349	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Aspect	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1	-2	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	1	-28	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	126	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	5	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1199	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	13	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	58	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	20485	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	310	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Islands	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	1	-2	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	14	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	1	-18	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	238	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	2457	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	18	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	57	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	31370	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	333	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Skewed	100000	std::vector	2	-781	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	1	-6	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	1	-1	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	11	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100	std::vector	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	1	-43	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	1	-18	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	101	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	1000	std::vector	1	-7	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	4	-422	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1	-185	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	890	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	12	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	1	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	10000	std::vector	1	-78	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	62	-4211	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	1	-1855	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	13840	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	335	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	2	0	
+ikrocky8_clang	Load-Query-Destroy	Destroy	box	2	array	Synthetic_Uniform	100000	std::vector	1	-781	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	89	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	91	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 QuadTree	209	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	GEOS 3.13.0 TemplateSTRTree	70	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	60	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	227	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	198	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	155	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 QuadTree	373	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	GEOS 3.13.0 TemplateSTRTree	154	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	91	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	1869	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	931	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	455	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 QuadTree	2635	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	GEOS 3.13.0 TemplateSTRTree	574	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	160	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	28440	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	2601	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	1385	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 QuadTree	38925	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	GEOS 3.13.0 TemplateSTRTree	2775	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	723	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	705262	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	93	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	BoxTreeStatic	80	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	82	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	59	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	53	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100	std::vector	381	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	154	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	63	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	89	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	86	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	46	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	1000	std::vector	3059	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	166	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	143	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	156	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	116	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	87	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	10000	std::vector	150055	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	429	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	624	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	982	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	360	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	492	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Islands	100000	std::vector	2452977	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	101	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	106	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	566	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	75	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	70	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100	std::vector	222	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	295	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	274	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	4240	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	229	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	117	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	1000	std::vector	2228	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	914	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	749	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	77597	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	797	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	188	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	10000	std::vector	88456	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	3205	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	1586	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	1358302	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	2272	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	1345	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Skewed	100000	std::vector	1848149	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	122	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	132	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	405	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	91	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	94	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100	std::vector	233	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	356	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	345	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	2410	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	278	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	131	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	1000	std::vector	2395	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1115	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	922	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	25740	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	944	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	199	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	10000	std::vector	88634	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	2901	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	940	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	742671	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	2546	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	495	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	point	2	array	Synthetic_Uniform	100000	std::vector	1979475	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	125	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	152	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 QuadTree	243	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	GEOS 3.13.0 TemplateSTRTree	92	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	nanoflann 0x161 Static	108	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100	std::vector	333	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	325	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	297	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 QuadTree	568	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	GEOS 3.13.0 TemplateSTRTree	239	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	nanoflann 0x161 Static	204	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	1000	std::vector	2849	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	821	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	1049	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 QuadTree	2255	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	GEOS 3.13.0 TemplateSTRTree	734	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	nanoflann 0x161 Static	581	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	10000	std::vector	36312	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	2196	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	2763	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 QuadTree	9384	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	GEOS 3.13.0 TemplateSTRTree	2154	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	nanoflann 0x161 Static	2050	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Parcels.shp	100000	std::vector	611785	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	183	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	195	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 QuadTree	370	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	GEOS 3.13.0 TemplateSTRTree	100	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	nanoflann 0x161 Static	125	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100	std::vector	325	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	189	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	116	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 QuadTree	203	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	GEOS 3.13.0 TemplateSTRTree	104	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	nanoflann 0x161 Static	113	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	1000	std::vector	1996	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	302	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	251	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 QuadTree	487	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	GEOS 3.13.0 TemplateSTRTree	222	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	nanoflann 0x161 Static	252	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	10000	std::vector	31686	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	1365	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	1585	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 QuadTree	5583	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	GEOS 3.13.0 TemplateSTRTree	1163	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	nanoflann 0x161 Static	1358	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Maricopa_Streets.shp	100000	std::vector	740932	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	125	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	153	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 QuadTree	296	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	GEOS 3.13.0 TemplateSTRTree	77	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	nanoflann 0x161 Static	136	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100	std::vector	323	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	503	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	558	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 QuadTree	882	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	GEOS 3.13.0 TemplateSTRTree	407	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	nanoflann 0x161 Static	391	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	1000	std::vector	3191	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	1189	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	2092	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 QuadTree	2223	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	GEOS 3.13.0 TemplateSTRTree	1075	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	nanoflann 0x161 Static	873	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	10000	std::vector	118970	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	3456	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	3161	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 QuadTree	20212	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	GEOS 3.13.0 TemplateSTRTree	2988	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	nanoflann 0x161 Static	4501	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Aspect	100000	std::vector	1757749	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	59	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	BoxTreeStatic	97	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 QuadTree	74	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	GEOS 3.13.0 TemplateSTRTree	44	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	123	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100	std::vector	277	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	183	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	88	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 QuadTree	146	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	GEOS 3.13.0 TemplateSTRTree	82	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	108	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	1000	std::vector	2865	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	176	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	169	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 QuadTree	1098	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	GEOS 3.13.0 TemplateSTRTree	131	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	193	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	10000	std::vector	101309	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	578	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	1212	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 QuadTree	17891	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	GEOS 3.13.0 TemplateSTRTree	376	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	819	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Islands	100000	std::vector	1658768	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	116	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	136	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 QuadTree	265	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	GEOS 3.13.0 TemplateSTRTree	86	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	116	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100	std::vector	300	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	327	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	316	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 QuadTree	881	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	GEOS 3.13.0 TemplateSTRTree	340	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	324	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	1000	std::vector	3138	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	1308	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	1093	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 QuadTree	3584	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	GEOS 3.13.0 TemplateSTRTree	1137	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	603	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	10000	std::vector	112370	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	2971	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	2287	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 QuadTree	34612	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	GEOS 3.13.0 TemplateSTRTree	2597	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	2437	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Skewed	100000	std::vector	1564258	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	119	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	144	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 QuadTree	268	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	GEOS 3.13.0 TemplateSTRTree	87	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	132	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100	std::vector	288	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	339	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	352	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 QuadTree	664	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	GEOS 3.13.0 TemplateSTRTree	281	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	277	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	1000	std::vector	3198	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	1115	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	1215	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 QuadTree	2589	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	GEOS 3.13.0 TemplateSTRTree	1001	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	822	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	10000	std::vector	98326	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	3211	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	3642	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 QuadTree	26057	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	GEOS 3.13.0 TemplateSTRTree	2951	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	3862	0	
+ikrocky8_clang	Load-Query-Destroy	Query Box	box	2	array	Synthetic_Uniform	100000	std::vector	1694644	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1885	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1523	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1136	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	3274	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	4573	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	2282	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1822	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	16845	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	12346	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	3914	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	3063	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	71081	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	15225	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	9301	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	9290	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1014266	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2423	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1732	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1388	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100	std::vector	6612	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	7167	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	3920	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	1944	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	1000	std::vector	16571	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	14144	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	42042	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	3074	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	10000	std::vector	73576	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	12093	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	393741	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	3120	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Islands	100000	std::vector	629714	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2016	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1525	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1351	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100	std::vector	3410	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	4722	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3158	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	2596	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	1000	std::vector	10965	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	6826	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	4612	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	3686	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	10000	std::vector	60138	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	11206	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	6648	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	11336	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Skewed	100000	std::vector	603735	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2178	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	1939	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1677	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100	std::vector	3569	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	5092	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	3732	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2766	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	1000	std::vector	12807	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	6594	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	4718	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	3332	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	10000	std::vector	56496	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	11961	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	6698	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	5986	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	point	2	array	Synthetic_Uniform	100000	std::vector	672292	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2469	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1700	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100	std::vector	3453	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	6188	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	3676	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	1000	std::vector	19675	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	12297	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	9597	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	10000	std::vector	106997	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	13955	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	21104	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Parcels.shp	100000	std::vector	933611	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	2953	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2320	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100	std::vector	4026	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	4569	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	3013	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	1000	std::vector	18439	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	6895	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	9567	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	10000	std::vector	66225	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	13580	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	12529	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Maricopa_Streets.shp	100000	std::vector	920344	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2801	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2259	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100	std::vector	4386	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	8443	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	5360	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	1000	std::vector	14755	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	9201	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	12361	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	10000	std::vector	87871	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	15454	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	20632	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Aspect	100000	std::vector	734744	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2126	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1617	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100	std::vector	2723	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	6985	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	3742	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	1000	std::vector	10656	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	13977	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	30026	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	10000	std::vector	64904	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	17026	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	375739	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Islands	100000	std::vector	580514	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2807	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	1980	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100	std::vector	3894	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	6527	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3599	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	1000	std::vector	12960	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	14245	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	6351	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	10000	std::vector	85033	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	12962	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	7780	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Skewed	100000	std::vector	661772	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2526	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2045	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100	std::vector	3880	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	5869	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	3603	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	1000	std::vector	14759	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8842	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	5972	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	10000	std::vector	77944	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	14336	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	18391	0	
+ikrocky8_clang	Load-Query-Destroy	Query Nearest	box	2	array	Synthetic_Uniform	100000	std::vector	721677	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	Boost R-tree 1_86	1982	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	BoxTreeStatic	1619	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	nanoflann 0x161 Static	1200	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100	std::vector	3509	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	Boost R-tree 1_86	4817	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	BoxTreeStatic	2465	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	nanoflann 0x161 Static	1952	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	1000	std::vector	19659	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	Boost R-tree 1_86	15276	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	BoxTreeStatic	5062	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	nanoflann 0x161 Static	3724	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	10000	std::vector	104502	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	Boost R-tree 1_86	29280	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	BoxTreeStatic	16771	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	nanoflann 0x161 Static	23390	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Maricopa_Parcel_Points.shp	100000	std::vector	1720185	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2535	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	BoxTreeStatic	1844	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	nanoflann 0x161 Static	1456	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100	std::vector	7212	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	7728	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	BoxTreeStatic	4041	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	nanoflann 0x161 Static	2048	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	1000	std::vector	20084	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	15438	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	BoxTreeStatic	43561	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	nanoflann 0x161 Static	4164	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	10000	std::vector	230022	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	23004	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	BoxTreeStatic	405338	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	nanoflann 0x161 Static	15603	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Islands	100000	std::vector	3083411	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2189	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	BoxTreeStatic	1707	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	nanoflann 0x161 Static	1427	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100	std::vector	3703	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	5101	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3492	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	nanoflann 0x161 Static	2761	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	1000	std::vector	14649	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	8481	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	BoxTreeStatic	5961	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	nanoflann 0x161 Static	4649	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	10000	std::vector	150798	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	27863	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	BoxTreeStatic	18356	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	nanoflann 0x161 Static	47220	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Skewed	100000	std::vector	2452505	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2309	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	BoxTreeStatic	2087	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	nanoflann 0x161 Static	1783	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100	std::vector	3810	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	5541	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4150	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	nanoflann 0x161 Static	2944	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	1000	std::vector	15820	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	8812	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	BoxTreeStatic	6266	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	nanoflann 0x161 Static	4230	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	10000	std::vector	168383	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	30348	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	BoxTreeStatic	15692	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	nanoflann 0x161 Static	18507	0	
+ikrocky8_clang	Load-Query-Destroy	Total	point	2	array	Synthetic_Uniform	100000	std::vector	2652654	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	Boost R-tree 1_86	2675	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	BoxTreeStatic	1860	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100	std::vector	3793	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	Boost R-tree 1_86	6740	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	BoxTreeStatic	4016	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	1000	std::vector	23305	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	Boost R-tree 1_86	14037	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	BoxTreeStatic	11225	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	10000	std::vector	149893	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	Boost R-tree 1_86	22145	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	BoxTreeStatic	29476	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Parcels.shp	100000	std::vector	1635410	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	Boost R-tree 1_86	3164	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	BoxTreeStatic	2663	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100	std::vector	4411	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	Boost R-tree 1_86	4903	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	BoxTreeStatic	3177	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	1000	std::vector	20775	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	Boost R-tree 1_86	7778	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	BoxTreeStatic	10567	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	10000	std::vector	104587	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	Boost R-tree 1_86	23338	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	BoxTreeStatic	22815	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Maricopa_Streets.shp	100000	std::vector	1709234	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	Boost R-tree 1_86	2954	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	BoxTreeStatic	2425	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100	std::vector	4728	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	Boost R-tree 1_86	9038	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	BoxTreeStatic	6000	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	1000	std::vector	18666	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	Boost R-tree 1_86	11098	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	BoxTreeStatic	15597	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	10000	std::vector	207510	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	Boost R-tree 1_86	31359	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	BoxTreeStatic	35805	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Aspect	100000	std::vector	2493248	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	Boost R-tree 1_86	2192	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	BoxTreeStatic	1721	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100	std::vector	3011	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	Boost R-tree 1_86	7233	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	BoxTreeStatic	3972	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	1000	std::vector	13967	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	Boost R-tree 1_86	14921	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	BoxTreeStatic	31077	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	10000	std::vector	167754	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	Boost R-tree 1_86	28062	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	BoxTreeStatic	390186	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Islands	100000	std::vector	2240213	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	Boost R-tree 1_86	2930	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	BoxTreeStatic	2122	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100	std::vector	4208	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	Boost R-tree 1_86	6920	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	BoxTreeStatic	3964	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	1000	std::vector	16656	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	Boost R-tree 1_86	17064	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	BoxTreeStatic	8877	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	10000	std::vector	203374	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	Boost R-tree 1_86	27457	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	BoxTreeStatic	22732	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Skewed	100000	std::vector	2227808	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	Boost R-tree 1_86	2653	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	BoxTreeStatic	2194	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100	std::vector	4179	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	Boost R-tree 1_86	6277	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	BoxTreeStatic	4018	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	1000	std::vector	18648	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	Boost R-tree 1_86	10815	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	BoxTreeStatic	8151	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	10000	std::vector	182761	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	Boost R-tree 1_86	29355	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	BoxTreeStatic	34966	0	
+ikrocky8_clang	Load-Query-Destroy	Total	box	2	array	Synthetic_Uniform	100000	std::vector	2417349	0	
